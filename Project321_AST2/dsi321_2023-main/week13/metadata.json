@@ -1,0 +1,21 @@
+{
+    "name": "weather_ast2",
+    "title": "WEATHER_AST2",
+    "notes": "ข้อมูลดัชนีคุณภาพอากาศ(AQI)ของประเทศไทยรายจังหวัด",
+    "data_type": "ข้อมูลสถิติ",
+    "owner_org": "tu", 
+    "data_source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlEs3FxFPwm-dpvU1YdsfRgsbfT9WdiXJHZm9kJgGTziPnk-y3TWtftbSbxj6Fe_g0NxYgqyVHTVU5/pubhtml?gid=1397577608&amp;single=true&amp;widget=true&amp;headers=false",
+    "maintainer": "ast2",
+    "update_frequency_unit": "ชั่วโมง",
+    "data_format": [
+      "CSV"
+    ],
+    "maintainer_email": "pattayapon.sen@dome.tu.ac.th",
+    "objective": [
+      "ยุทธศาสตร์ชาติ",
+      "แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ"
+    ],
+    "data_category": "ข้อมูลสาธารณะ",
+    "geo_coverage": "ประเทศ",
+    "license_id": "License not specified"
+}
